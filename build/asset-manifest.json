@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10facada.css",
+    "main.js": "/static/js/main.e5aaacc3.js",
+    "static/media/dengue-fever.png": "/static/media/dengue-fever.74206f20789d67327067.png",
+    "index.html": "/index.html",
+    "main.10facada.css.map": "/static/css/main.10facada.css.map",
+    "main.e5aaacc3.js.map": "/static/js/main.e5aaacc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10facada.css",
+    "static/js/main.e5aaacc3.js"
+  ]
+}
